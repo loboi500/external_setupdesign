@@ -1,0 +1,14 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+lint.xml filter=lfs diff=lfs merge=lfs -text
+strings filter=lfs diff=lfs merge=lfs -text
+build.gradle filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+lint-baseline.xml filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+proguard.flags filter=lfs diff=lfs merge=lfs -text
+exempting_lint_checks.txt filter=lfs diff=lfs merge=lfs -text
+lottie_loading_layout filter=lfs diff=lfs merge=lfs -text
+main filter=lfs diff=lfs merge=lfs -text
